@@ -1,7 +1,7 @@
-# Pandas_Challange1
+Pandas_Challange1
 This is week four of boot camp spot
-
-Report on data
+------------------------------------------
+# Report on data
 ~ charter schools students tend to have better grades then district students
 ~ students across the board tend to do better reading than they do mathmatics
 ~ across the board the less money spent on individual students the better there grades tend to be
