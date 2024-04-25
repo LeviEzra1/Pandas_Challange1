@@ -12,7 +12,7 @@ Report on data
 ~ most top ranking schools based on overall passing students are small to medum in size and are charter schools
 ~ the lowest ranking schools are all district schools have a high budget for each student and are all large schools
 -------------------------------
-Analisis
+# Analisis
 
 While schooling is ment for education and is mostly self driven by the studnet and how much time and work they put into it, 
 outside factors can lead to a students succses or falure depending on the school and
